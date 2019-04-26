@@ -281,3 +281,16 @@ a {
     padding: 0% 2% 0% 2%;   
     box-sizing: border-box;
 }
+
+.top-content.products {
+    padding: 5% 0% 0% 0%;
+}
+
+.middle-content.products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.middle-content.articles.products {
+    flex-wrap: nowrap;
+}
