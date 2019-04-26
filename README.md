@@ -34,11 +34,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-``` Semantic helps you to organize your code and make it more readable for the next developer, semantic HTML also gives you SEO, so your website can have presence on the web through search engines (Google, yahoo), also semantic HTML helps your website to be accesable, meaning that screen readers will go through your website smothly, and also for legal porpuses. ```
+``` Semantic helps you to organize your code and make it more readable for the next developer, semantic HTML also gives you SEO, so your website can have a presence on the web through search engines (Google, yahoo), also semantic HTML helps your website to be accessible, meaning that screen readers will go through your website smoothly, and also for legal purposes. ```
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-``` First big difference is with display inline truncating width and height while in display block you can control it, and the second big difference is display block making elements display in the DOM one after the other while with display inline, elements are displayed/rendered one next to each other.```
+``` The first big difference is with display inline truncating width and height while in display block you can control it, and the second big difference is displayed block making elements display in the DOM one after the other while with display inline, elements are displayed/rendered one next to each other. ```
 
 3. What are the 4 areas of the box model?
 
@@ -50,7 +50,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-``` Git will help teams collaborate with each other or with the project all together in a organized, and efficient way. Also, versioning is a powerfull tool which can be used when team members overwrite work or when you need to do a hot fix or you need to roll your application back, in other words will prevent a lot of headache ```
+``` Git will help teams collaborate with each other or with the project all together in an organized, and efficient way. Also, versioning is a powerful tool which can be used when team members overwrite work or when you need to do a hot fix or you need to roll your application back, in other words will prevent a lot of headache ```
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
