@@ -144,3 +144,14 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+#index-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5% 0% 0% 0%;
+}
+
+#index-main-panel {
+    padding: 5% 0% 5% 0%;
+}
