@@ -50,6 +50,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
+``` Git will help teams collaborate with each other or with the project all together in a organized, and efficient way. Also, versioning is a powerfull tool which can be used when team members overwrite work or when you need to do a hot fix or you need to roll your application back, in other words will prevent a lot of headache ```
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
