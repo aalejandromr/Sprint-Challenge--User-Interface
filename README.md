@@ -38,6 +38,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+``` First big difference is with display inline truncating width and height while in display block you can control it, and the second big difference is display block making elements display in the DOM one after the other while with display inline, elements are displayed/rendered one next to each other.```
+
 3. What are the 4 areas of the box model?
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
