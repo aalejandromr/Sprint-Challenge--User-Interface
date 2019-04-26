@@ -294,3 +294,27 @@ a {
 .middle-content.articles.products {
     flex-wrap: nowrap;
 }
+
+.top-content.products, .middle-content.products {
+    border-bottom: unset;
+}
+
+.product-item a.learn-more {
+    height: 38px;
+    width: 120px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 17px;
+    margin: 5% 0% 10% 0%;
+}
+
+.product-item a {
+    padding: 2%;
+}
+
+.product-item p {
+    margin-bottom: 6%;
+    padding: 5%;
+}
