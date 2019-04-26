@@ -80,7 +80,7 @@ p {
 }
 
 .top-content .text-container {
-    width: 48%;
+    width: 47%;
     padding: 0 1%;
     padding-bottom: 20px;  
 }
@@ -196,6 +196,9 @@ footer nav a {
     background-color: dodgerblue;
 }
 
+.top-content .text-container.about {
+    width: 100%;
+}
 /* * [ ] box1: `teal`
 * [ ] box2: `gold`
 * [ ] box3: `cadetblue`
@@ -206,3 +209,69 @@ footer nav a {
 * [ ] box8: `hotpink`
 * [ ] box9: `indigo`
 * [ ] box10: `dodgerblue` */
+
+.middle-content.about {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    padding-top: 1%;
+}
+
+.articles.about {
+    width: 48%;
+    margin-bottom: 0px;
+    border-bottom: unset;
+    margin-bottom: 4%;
+}
+
+.articles.about:nth-child(2n+2){
+    box-sizing: border-box;
+    margin: 0% 0% 4% 4%;
+}
+
+.middle-content.articles.about img {
+    flex-grow: 1;
+}
+
+.middle-content.about h2 {
+    padding: 0px;
+}
+
+.middle-content.about h2, .middle-content.about p, .middle-content.about a {
+    padding-top: 4%;
+}
+
+.middle-content.about a {
+    padding-bottom: 6%;
+}
+
+.middle-content.about a.learn-more {
+    height: 38px;
+    width: 120px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 17px;
+    margin: 5% 0% 10% 0%;
+}
+
+.top-content.about-footer {
+    padding: 2% 0% 0% 0%;
+    border-bottom: unset
+}
+
+.middle-content.about {
+    border-bottom: unset;
+}
+
+/* border-bottom: 1px dashed black; */
+
+.middle-content .articles {
+    border-bottom: 1px dashed black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
