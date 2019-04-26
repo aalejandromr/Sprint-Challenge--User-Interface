@@ -34,6 +34,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+``` Semantic helps you to organize your code and make it more readable for the next developer, semantic HTML also gives you SEO, so your website can have presence on the web through search engines (Google, yahoo), also semantic HTML helps your website to be accesable, meaning that screen readers will go through your website smothly, and also for legal porpuses. ```
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 3. What are the 4 areas of the box model?
